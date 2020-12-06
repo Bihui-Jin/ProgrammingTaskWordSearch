@@ -1,0 +1,12 @@
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\bin\Debug\netcoreapp3.1\ProgrammingTaskWordSearch.exe
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\bin\Debug\netcoreapp3.1\ProgrammingTaskWordSearch.deps.json
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\bin\Debug\netcoreapp3.1\ProgrammingTaskWordSearch.runtimeconfig.json
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\bin\Debug\netcoreapp3.1\ProgrammingTaskWordSearch.runtimeconfig.dev.json
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\bin\Debug\netcoreapp3.1\ProgrammingTaskWordSearch.dll
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\bin\Debug\netcoreapp3.1\ProgrammingTaskWordSearch.pdb
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\obj\Debug\netcoreapp3.1\ProgrammingTaskWordSearch.AssemblyInfoInputs.cache
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\obj\Debug\netcoreapp3.1\ProgrammingTaskWordSearch.AssemblyInfo.cs
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\obj\Debug\netcoreapp3.1\ProgrammingTaskWordSearch.csproj.CoreCompileInputs.cache
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\obj\Debug\netcoreapp3.1\ProgrammingTaskWordSearch.dll
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\obj\Debug\netcoreapp3.1\ProgrammingTaskWordSearch.pdb
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\obj\Debug\netcoreapp3.1\ProgrammingTaskWordSearch.genruntimeconfig.cache

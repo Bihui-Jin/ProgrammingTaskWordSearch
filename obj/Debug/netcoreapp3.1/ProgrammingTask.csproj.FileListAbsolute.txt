@@ -1,0 +1,13 @@
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\bin\Debug\netcoreapp3.1\ProgrammingTask.exe
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\bin\Debug\netcoreapp3.1\ProgrammingTask.deps.json
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\bin\Debug\netcoreapp3.1\ProgrammingTask.runtimeconfig.json
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\bin\Debug\netcoreapp3.1\ProgrammingTask.runtimeconfig.dev.json
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\bin\Debug\netcoreapp3.1\ProgrammingTask.dll
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\bin\Debug\netcoreapp3.1\ProgrammingTask.pdb
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\obj\Debug\netcoreapp3.1\ProgrammingTask.csprojAssemblyReference.cache
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\obj\Debug\netcoreapp3.1\ProgrammingTask.AssemblyInfoInputs.cache
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\obj\Debug\netcoreapp3.1\ProgrammingTask.AssemblyInfo.cs
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\obj\Debug\netcoreapp3.1\ProgrammingTask.csproj.CoreCompileInputs.cache
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\obj\Debug\netcoreapp3.1\ProgrammingTask.dll
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\obj\Debug\netcoreapp3.1\ProgrammingTask.pdb
+C:\Users\bi6103941\Desktop\Projects\ProgrammingTask\obj\Debug\netcoreapp3.1\ProgrammingTask.genruntimeconfig.cache
